@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407061706909",
+    "firebase_url": "https://simfoniheights.firebaseio.com",
+    "project_id": "simfoniheights",
+    "storage_bucket": "simfoniheights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407061706909:android:4912b23ffd955724",
+        "android_client_info": {
+          "package_name": "my.iumw.anusheri.simfoniheights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407061706909-nr3r7kinj697j5bmbfnbm0ot0gpg3p86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.iumw.anusheri.simfoniheights",
+            "certificate_hash": "23e3a7a405dafb855938b20f314ed8210e7b1d80"
+          }
+        },
+        {
+          "client_id": "407061706909-d5pj5h4bv252er2hp64ccl8274i74808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6aA5g2f2OjfujMn7fAVSGM5Kz-GobOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407061706909-d5pj5h4bv252er2hp64ccl8274i74808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
